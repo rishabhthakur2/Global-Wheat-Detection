@@ -1,2 +1,1 @@
-# Gundecha_Rishabh
-Global Wheat Detection
+# Global Wheat Detection
